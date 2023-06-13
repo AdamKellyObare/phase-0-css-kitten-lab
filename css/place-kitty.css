@@ -14,8 +14,8 @@
   left: 369px;
 }
 
-div id 
-#basket {
+
+#basket img{
   position: absolute;
   z-index: 5;
   top: 291px;
@@ -23,8 +23,8 @@ div id
 }
 
 
-/*div + img */
-adjascent selector {
+
+#ball + img {
   position: absolute;
   z-index: 4;
   top: 260px;
@@ -32,7 +32,7 @@ adjascent selector {
 }
 
 /* Kitty 5*/
-div[id="basket"] {
+img[alt="kitty-5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
